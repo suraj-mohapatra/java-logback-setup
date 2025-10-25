@@ -26,6 +26,8 @@
         <appender-ref ref="CONSOLE" />
     </root>
     
-    <!-- we can also use async appender to perform asynchronous logging--> 
+    <!-- we can also use async appender to perform asynchronous logging-->
+
+    <!-- OFF > ERROR > WARN > INFO > DEBUG > TRACE > ALL -->
     
 </configuration>
